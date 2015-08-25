@@ -8,10 +8,10 @@ $week_days = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sun
 //   echo $day."<br>";
 // }
 
-for ($i=0; $i <=count($week_days) ; $i++) {
-  # code...
-  echo $week_days[$i]."<br>";
-}
+// for ($i=0; $i <=count($week_days) ; $i++) {
+//   # code...
+//   echo $week_days[$i]."<br>";
+// }
 
 
  ?>
