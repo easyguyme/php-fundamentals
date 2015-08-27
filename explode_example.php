@@ -1,7 +1,7 @@
 <?php
 $sms = "Leonard#32749387#Nailab";
 
-$exploded_text = explode('a',$sms);
+$exploded_text = explode('#',$sms);
 
 $name = $exploded_text[0];
 
